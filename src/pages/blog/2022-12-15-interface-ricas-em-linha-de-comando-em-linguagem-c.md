@@ -7,6 +7,8 @@ description: "Interface ricas em linha de comando em linguagem C - um guia de
   aplicados conhecimentos de UI e UX...  "
 featuredpost: true
 featuredimage: /img/tutorials.png
+tags:
+  - ux ui langC
 ---
 Uma das grandes vantagens de linguagens mais próximas ao hardware são as possibilidade de usar a imaginação.
 
