@@ -1,31 +1,27 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
+title: Meus serviços
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Para mi nada não é invalido apenas fora de escopo
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Desde cedo trilhando o caminho do teclado e 
+  mouse como pode ser lido na pagina sobre.
 
 main:
-  heading: Great coffee with no compromises
+  heading: Ofereço uma solução ideal
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Em tecnologia há pelo menos 3 tipos de soluções, a barata e emergente, a ideal 
+    em relação preço, a super ideal tecnologicamente, faço questão de apresentar as 
+    3, mas prefiro ficar pela uma ideal que não só resolve o problema atual mas 
+    permite escalar com os requisitos futuros.
  
 testimonials:
 
 pricing:
-  heading: Monthly subscriptions
+  heading: Subcrições Mensais e Produtos ( Em breve e ignore abaixo)
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Em breve e ignore abaixo
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
