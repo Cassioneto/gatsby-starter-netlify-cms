@@ -12,7 +12,7 @@ const Footer = class extends React.Component {
     return (
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
-          <p style={{ width: "14em", height: "10em"}} > Cássio</p>
+          <h1 > Cássio</h1>
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
