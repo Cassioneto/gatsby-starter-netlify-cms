@@ -1,19 +1,16 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: Sobre min
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+Vários anos se passaram desde que apreendi a ligar e desligar um computador no Windows 95, pois antes disso apenas jogava esporadicamente em telas monocromáticas onde já era tudo preparado por outrem.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Baseado em livros como "Windows 2000 profissional" de "Jerry Joyce" e "Marianne Moon", assim como vários click ariscados e aguçados pela curiosidade permitiram pouco a pouco, conhecer o sistema windows( em um tempo que configurações incompatíveis era um problema de tela azul)...
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Academicamente falado ainda lembro das vastas leituras de apostilas que tiveram o seu upload no site apostilando e um pouco mais tarde um programa de formação da Intel onde o propósito era ter um conhecimento multi-abrangente sobre os temas e não formar super técnicos que serviu muito bem para a minha idade de pre-adolecente.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Em minha primeira aula de programação as milhas leituras sobre programação e algoritmos começaram a fazer sentido tendo ariscado fazer um simples programa que calcula a media aritmética entre duas notas surpreendendo caro professor "Júlio".
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Assim os interresse sobre os diversos assunto que a intel ensinou foram ampliados com o conhecimento academico e as minhas investigações e leitura em revistas da área como da extinta angolana "Truta" permitiram explorar um mundo sem fim...
+
+Em finas de 2011 conheço mais sobre o lado profissional embora não a tempo inteiro pois frequentava a universidade mais sobre mais detalhes basta consultar o CV,,,
