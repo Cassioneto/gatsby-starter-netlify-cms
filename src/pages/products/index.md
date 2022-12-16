@@ -1,9 +1,9 @@
 ---
-templateKey: product-page
-title: A Quick Test of the CMS
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Em breve
 path: /products
+templateKey: product-page
+title: Meus serviços
+image: /img/jumbotron.jpg
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
