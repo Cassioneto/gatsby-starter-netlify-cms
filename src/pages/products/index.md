@@ -1,38 +1,30 @@
 ---
-heading: Para mi nada não é invalido apenas fora de escopo
+templateKey: 'product-page'
 path: /products
-templateKey: product-page
-title: Meus serviços
+title: Our Coffee
 image: /img/jumbotron.jpg
-description: Desde cedo trilhando o caminho do teclado e  mouse como pode ser
-  lido na pagina sobre.
-intro:
-  heading: livre estou...
-  description: "Eu gosto da liberdade, então porque não oferecer ao outros... "
-  blurbs: []
+heading: Great coffee with a conscience
+description: >-
+  Kaldi is the ultimate spot for coffee lovers who want to learn about their
+  java’s origin and support the farmers that grew it. We take coffee production,
+  roasting and brewing seriously and we’re glad to pass that knowledge to
+  anyone.
 main:
-  heading: Ofereço uma solução ideal
+  heading: Great coffee with no compromises
   description: >
-    Em tecnologia há pelo menos 3 tipos de soluções, a barata e emergente, a
-    ideal  em relação preço, a super ideal tecnologicamente, faço questão de
-    apresentar as  3, mas prefiro ficar pela uma ideal que não só resolve o
-    problema atual mas  permite escalar com os requisitos futuros.
-  image1:
-    image: /img/coffee.png
-    alt: "Assim como no café grão precisam ser colhidos e trabalhados. Assim com o
-      conhecimento e a força e o tempo "
-  image2:
-    image: /img/coffee-gear.png
-    alt: "Trabalhar com tecnologias de código aberto pode não ser fácil, mas nada
-      impede ir contra a maré, liberdade sempre... "
-  image3:
-    image: /img/tutorials.png
-    alt: "Diversos tutorias, não há caminhos certos ou errados apenas ideais... "
-testimonials: null
-full_image: /img/products-full-width.jpg
+    We hold our coffee to the highest standards from the shrub to the cup.
+    That’s why we’re meticulous and transparent about each step of the coffee’s
+    journey. We personally visit each farm to make sure the conditions are
+    optimal for the plants, farmers and the local environment.
+ 
+testimonials:
+
 pricing:
-  heading: Subcrições Mensais e Produtos ( Em breve e ignore abaixo)
-  description: Em breve e ignore abaixo
+  heading: Monthly subscriptions
+  description: >-
+    We make it easy to make great coffee a part of your life. Choose one of our
+    monthly subscription plans to receive great coffee at your doorstep each
+    month. Contact us about more details and payment info.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
@@ -40,5 +32,19 @@ pricing:
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Small
-      price: "50"
+      price: '50'
+    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+      items:
+        - 6 lbs of coffee per month
+        - Green or roasted beans
+        - Up to 4 different varieties of beans
+      plan: Big
+      price: '80'
+    - description: Want a few tiny batches from different varieties? Try our custom plan
+      items:
+        - Whatever you need
+        - Green or roasted beans
+        - Unlimited varieties
+      plan: Custom
+      price: '??'
 ---
